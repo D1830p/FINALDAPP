@@ -14,7 +14,7 @@ TESTING PROGRAM AND THE PASSING TEST.
 4)FRONTEND:-
 CONTRACT ADDRESS DEPLOYED ON : 0x30665ad67615F29f6A5389f054C628bB5351E49F
 URL:-file:///Users/dhartiparikh/desktop/final/web/index.html
-PRIVATE KEY :-7c8db9bece82ea8d5166e765818e1fa281c6bc1fd362efd8df9789db928cca8b
+
 After plenty of efforts I couldn’t be able to to my backend the to its running on https:localhost:8080.    To run this :- php -S localhost:808
 
 
